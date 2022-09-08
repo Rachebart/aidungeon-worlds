@@ -9,6 +9,18 @@
     "tags": []
   },
   {
+    "name": "Human",
+    "description": "Humans are the only playable race in Cyberpunk (although some humans have so much cyberware that they are closers to cyborgs)." ,
+    "type": "race",
+    "entry": "Humans are the only playable race in Cyberpunk (although some humans have so much cyberware that they are closers to cyborgs).",
+    "favorite": false,
+    "genre": null,
+    "tags": [],
+    "isSelected": false,
+    "attributes": null,
+    "keys": "Human, race"
+  },
+  {
     "name": "V",
     "description": "V, an alias for Valerie/Vincent,Automatic Love is a mercenary involved in a series of singular events during the year 2077, which toppled the balance of power in Night City.\n\nV is the player-controlled character and the main protagonist of . Their gender, appearance, attributes, perks, and Lifepaths are all customizable and have an impact on the story.Cyberpunk.net",
     "type": "character",
